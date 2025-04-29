@@ -1,6 +1,6 @@
 # 🏠 Comfy Homepage
 
-![Preview](https://i.imgur.com/YPGBGky.png)
+![Preview](https://i.imgur.com/b6bxdqZ.png)
 
 Uma página inicial minimalista e personalizável para seu navegador, com foco em conforto e funcionalidade.
 
@@ -31,7 +31,7 @@ Uma página inicial minimalista e personalizável para seu navegador, com foco e
 
 ## 🚀 Como Usar
 
-1. Acesse: [Comfy Homepage](https://dxppwr.github.io/home)
+1. Acesse: [Comfy Homepage](https://carrosvelozes.github.io/comfyhomepage)
 2. Personalize suas configurações:
    - Nome de usuário
    - Cidade para previsão do tempo
@@ -48,7 +48,7 @@ Uma página inicial minimalista e personalizável para seu navegador, com foco e
    - **Usar extensões de New Tab**:
      - [Custom New Tab URL](https://chrome.google.com/webstore/detail/custom-new-tab-url/mmjbdbjnoablegbkcklggeknkfcpnogk) (Chrome)
      - [New Tab Override](https://addons.mozilla.org/pt-BR/firefox/addon/new-tab-override/) (Firefox)
-   - Configure a URL como: https://dxppwr.github.io/home/
+   - Configure a URL como: https://carrosvelozes.github.io/comfyhomepage/
 
 ## 🔒 Privacidade
 
@@ -70,10 +70,10 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👤 Autor
 
-[@dxppwr](https://github.com/dxppwr)
+[@carrosvelozes](https://github.com/carrosvelozes)
 
 ---
 
 ⭐ Se você gostou do projeto, considere dar uma estrela! 
 
-Copyright (c) 2025 dxppwr 
+Copyright (c) 2025 carrosvelozes
