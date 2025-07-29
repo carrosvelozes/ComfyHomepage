@@ -1,6 +1,6 @@
 # 🏠 Comfy Homepage
 
-![Preview](https://i.imgur.com/b6bxdqZ.png)
+![Preview](https://i.imgur.com/BAlnbC5.png)
 
 Uma página inicial minimalista e personalizável para seu navegador, com foco em conforto e funcionalidade.
 
